@@ -12,6 +12,7 @@ public class BubbleSort {
                 }
             }
         }
+        System.out.println("Bubble Sort In Action:");
         for (int i = 0; i < myArray.length; i++){
             System.out.println(myArray[i]);
         }
@@ -21,7 +22,6 @@ public class BubbleSort {
         if(i == j){
             return;
         }
-
         int temp = array[i];
         array[i] = array[j];
         array[j] = temp;
