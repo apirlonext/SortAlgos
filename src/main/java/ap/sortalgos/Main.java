@@ -9,5 +9,12 @@ public class Main {
         System.out.println("");
 
         InsertionSort.InsertionSortImpl();
+        System.out.println("");
+
+        Recursion.Factorial();
+        System.out.println("");
+
+
+
     }
 }
