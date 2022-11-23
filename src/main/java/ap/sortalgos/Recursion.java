@@ -2,7 +2,7 @@ package ap.sortalgos;
 
 public class Recursion {
 
-    public static void Factorial(){
+    public static void RecursionFactorial(){
         System.out.println("Factorial methods in action: \n");
         System.out.println("Recursive: " + recursiveFactorial(3));
         System.out.println("Iterative: " + iterativeFactorial(4));

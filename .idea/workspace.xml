@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="802b0fcc-ab21-4c31-ba76-d46bbeb6ac14" name="Changes" comment="BubbleSort done">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ap/sortalgos/Recursion.java" afterDir="false" />
+    <list default="true" id="802b0fcc-ab21-4c31-ba76-d46bbeb6ac14" name="Changes" comment="Recursion done">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ap/sortalgos/MergeSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ap/sortalgos/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ap/sortalgos/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ap/sortalgos/Recursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ap/sortalgos/Recursion.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,13 +49,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "advanced.settings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ap.sortalgos.Main" />
@@ -91,7 +92,21 @@
       <option name="project" value="LOCAL" />
       <updated>1663046080199</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Recursion done">
+      <created>1667199967609</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667199967609</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Recursion done">
+      <created>1667200112406</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1667200112406</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -107,7 +122,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="BubbleSort done" />
-    <option name="LAST_COMMIT_MESSAGE" value="BubbleSort done" />
+    <MESSAGE value="Recursion done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Recursion done" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.StackOverflowError" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

@@ -11,7 +11,10 @@ public class Main {
         InsertionSort.InsertionSortImpl();
         System.out.println("");
 
-        Recursion.Factorial();
+        Recursion.RecursionFactorial();
+        System.out.println("");
+
+        MergeSort.MergeSortImpl();
         System.out.println("");
 
 
