@@ -17,6 +17,15 @@ public class Main {
         MergeSort.MergeSortImpl();
         System.out.println("");
 
+        QuickSort.QuickSortImpl();
+        System.out.println("");
+
+        CountingSort.CountingSortImpl();
+        System.out.println("");
+
+        RadixSort.RadixSortImp();
+        System.out.println("");
+
 
 
     }
